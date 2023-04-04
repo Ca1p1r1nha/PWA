@@ -11,7 +11,7 @@
     "icons" : [
         {
             "scr" : "./img/pobrane.jpg",
-            "sizes" : "612x500",
+            "sizes" : "512x512",
             "type" : "image/jpg"
         }
     ]
