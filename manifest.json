@@ -1,0 +1,18 @@
+{
+    "name": "kozak aplikacja",
+    "short_name": "kozak APP",
+    "theme_color": "#771ead",
+    "background_color": "#2d450e",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/index.html",
+    "description" : "zaawansowane tecjnologie internetowe - projekt PWA",
+    "icons" : [
+        {
+            "scr" : "./img/pobrane.jpg",
+            "sizes" : "612x500",
+            "type" : "image/jpg"
+        }
+    ]
+}
